@@ -1,0 +1,22 @@
+1. Briefly explain the main idea behind the technology you're researching, what is it exactly? what is it for? How does it work?
+Pattern recognition algorithms are coded in order to train computers to do pattern recognition for musical patterns. This can be applied to actual notated music such as midi or note data or to audio analysis that allows software to compare sound files.
+
+2. Who are the important people and/or organizations related to this technology? Don't just list names, briefly explain who these are and what their relationship to your research area is.
+Spotify, Youtube, Apple, and other huge and not so huge music companies and websites utilize this technology to sort songs and genres.
+Independent programmers who design their own AI to make music.
+Sony CSL Paris with Pierre and Marie Curie University (UPMC) develop AI composers at Flow Machines.
+François Pachet leads Flow Machines and is also the director of the Spotify Creator Technology Research Lab.
+2017 saw the release of sony's record label "flow records"
+
+3. What are the important historical events/milestones in the development of this technology and why do they seem particularly note worthy?
+Russian researcher R. Kh. Zaripov writes an article on algorithmic music in 1960.
+David Cope uses computers for composing classical music since the 80s
+Music Genome Project analyzes music 1999 (a&r replaced with nora jones and maroon 5) https://www.youtube.com/watch?v=XPpTgCho5ZA
+Pachet is hired by Spotify
+
+4. Draw (literally or figuratively) connections between the technology you are researching and other related technology. This could include sub-categories within your research area and/or technological predecessors and/or technology which is otherwise related to your area.
+Algorithms have been used historically to do work, solve problems, and create, even before computers.
+AI now controls lots of aspects of society, since huge corporations that control political, cultural, and social spheres implement them heavily.
+AI is next in the game for systems of control, and they already are a huge part influencing decisions of governments etc.
+Mysterious soundcloud algorithm explanation: https://help.soundcloud.com/hc/en-us/articles/115003565888-Related-tracks.
+Youtube recommendations brain Google Brain was now released open source as TensorFlow.
