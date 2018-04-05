@@ -22,6 +22,7 @@ Music Genome Project analyzes music 1999 (a&r replaced with nora jones and maroo
 ACS (Automated Composing System): http://www.mu-tech.co.jp/AcsWebE/setparam.asp
 
 Infno- Infinite generator of electronic dance music and synth pop: http://composerprogrammer.com/infno.html
+<<<<<<< HEAD
 
 ## Digest 3
 #### March 7
@@ -57,3 +58,5 @@ https://www.youtube.com/watch?v=iuWYQe3aGlg
 
 Soundcloud is nice and inacessable about their related song algorithms: https://help.soundcloud.com/hc/en-us/articles/115003565888-Related-tracks.
 Youtube recommendations brain Google Brain was now released open source as TensorFlow.
+=======
+>>>>>>> 098706acd070f9bb5b40aeb52d833aa495eee938
